@@ -2,7 +2,7 @@
 
 A visually appealing, interactive, and responsive web-based quiz application featuring a cute robot assistant that engages users while they take quizzes. The app is designed to be fun, interactive, and easy to use, with smooth animations, dynamic interactions, and time-bound challenges.
 
- Features
+ 💡Features
 
 1. Interactive Quiz Flow
 
@@ -63,14 +63,14 @@ A visually appealing, interactive, and responsive web-based quiz application fea
 * Keyboard interaction for Enter key submission.
 * Clear visual feedback on correct and incorrect answers.
 
-Technologies Used
+🔹Technologies Used
 
 * HTML5 – Semantic markup for structure
 * CSS3 – Advanced styling, animations, gradients, and responsive design
 * JavaScript – Quiz logic, timer, score tracking, robot interactions, and confetti animation
 * SVG – Custom robot illustration with animations
 
- Setup and Installation
+ 🔹Setup and Installation
 
 1. Clone or download the repository:
 
@@ -78,7 +78,7 @@ Technologies Used
 2. Open the project folder in a code editor or directly in a browser.
 3. Open `index.html` in a modern web browser (Chrome, Firefox, Edge, Safari).
 
- Usage
+🔹 Usage
 
 1. Upon loading the page, the robot introduces itself and asks for your name.
 2. Proceed through the interactive intro questions.
@@ -88,7 +88,7 @@ Technologies Used
 6. At the end of the quiz, the total score is displayed, along with confetti animation.
 7. Click Restart to retake the quiz.
 
-Folder Structure
+🔹Folder Structure
 
 
 Cute-Robot-Quiz-App/
@@ -99,11 +99,11 @@ Cute-Robot-Quiz-App/
 
 
 
- Customization
+🔹 Customization
 
-* Questions: Modify `questions` array in JavaScript to add, remove, or change quiz questions.
-* Intro: Update `introQuestions` array for personalized introduction flow.
+* Questions: Modify questions array in JavaScript to add, remove, or change quiz questions.
+* Intro: Update introQuestions array for personalized introduction flow.
 * Robot Appearance: Adjust SVG elements and CSS animations for different robot designs.
-* Timer & Scoring: Change `timeLeft` variable or scoring logic to modify challenge levels.
+* Timer & Scoring: Change timeLeft variable or scoring logic to modify challenge levels.
 * Animations: Modify keyframes in CSS for pop-in, hover effects, robot hop, wave, and confetti.
 
