@@ -88,20 +88,9 @@ A visually appealing, interactive, and responsive web-based quiz application fea
 6. At the end of the quiz, the total score is displayed, along with confetti animation.
 7. Click Restart to retake the quiz.
 
-🔹Folder Structure
-
-
-Cute-Robot-Quiz-App/
-│
-├─ index.html       # Main HTML file
-├─ README.md        # Project documentation
-└─ assets/          # Optional folder for images, fonts, or icons
-
-
 
 🔹 Customization
 
-* Questions: Modify questions array in JavaScript to add, remove, or change quiz questions.
 * Intro: Update introQuestions array for personalized introduction flow.
 * Robot Appearance: Adjust SVG elements and CSS animations for different robot designs.
 * Timer & Scoring: Change timeLeft variable or scoring logic to modify challenge levels.
