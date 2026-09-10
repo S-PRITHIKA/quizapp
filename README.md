@@ -4,7 +4,7 @@ A visually appealing, interactive, and responsive web-based quiz application fea
 
  💡Features
 
-1. Interactive Quiz Flow
+1. Interactive Quiz Flow s
 
 * Step-by-step quiz with multiple-choice questions.
 * Dynamic score tracking displayed during the quiz.
